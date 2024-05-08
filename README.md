@@ -1,0 +1,3 @@
+Continued progress based on prior work done by Franklin Williams (UW Computational Finance & Risk Management 2020)
+
+Traditional pairs trading strategies rely on strict assumptions about the relationships between securities, namely that there exists a linear relationship between candidate securities. By utilizing measurements from information theory, securities are tested for the existence of polynomial relationships. Pairs with strong relationships are chosen and dollar neutral portfolios are traded. The portfolio of portfolios is found to outperform the S&P 500 index in both in-sample and out-of-sample backtests, in terms of absolute performance, Sharpe ratio, and relative drawdown.
